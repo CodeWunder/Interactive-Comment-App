@@ -14,7 +14,7 @@ const AddComment = ({ buttonValue, addComments, replyingTo }) => {
       content: replyingToUser + comment.replace(replyingToUser, ""),
       createdAt: new Date(),
       score: 0,
-      username: "juliusomo",
+      username: "new_user",
       currentUser: true,
       replies: [],
     };
