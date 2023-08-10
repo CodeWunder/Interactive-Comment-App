@@ -1,40 +1,40 @@
 {
   "currentUser": {
-    "username": "juliusomo"
+    "username": "ronaldo_fan"
   },
   "comments": [
     {
       "id": 1,
-      "content": "Impressive! Though it seems the drag feature could be improved. But overall it looks incredible. You've nailed the design and the responsiveness at various breakpoints works really well.",
-      "createdAt": "23 November 2021",
+      "content": "Messi is great, but Ronaldo's athleticism and work ethic are unmatched. However, I do agree that his free kicks could use some improvement. Overall, Ronaldo is incredible on the field!",
+      "createdAt": "23 November 2022",
       "score": 12,
-      "username": "amyrobson",
+      "username": "messi_fan",
       "currentUser": false,
       "replies": []
     },
     {
       "id": 2,
-      "content": "Woah, your project looks awesome! How long have you been coding for? I'm still new, but think I want to dive into React as well soon. Perhaps you can give me an insight on where I can learn React? Thanks!",
-      "createdAt": "5 December 2021",
+      "content": "Wow, Ronaldo is an amazing player! How long have you been following football? I'm relatively new to it, but I think I want to learn more about Messi's skills. Any suggestions on where I can appreciate Messi's talent? Thanks!",
+      "createdAt": "5 December 2022",
       "score": 5,
-      "username": "maxblagun",
+      "username": "ronaldo_fan",
       "currentUser": false,
       "replies": [
         {
           "id": 3,
-          "content": "@maxblaugn, If you're still new, I'd recommend focusing on the fundamentals of HTML, CSS, and JS before considering React. It's very tempting to jump ahead but lay a solid foundation first.",
-          "createdAt": "18 December 2021",
+          "content": "@ronaldo_fan, If you're new to football, I'd recommend starting with watching classic matches and highlights of great players, including Messi. It's essential to understand the history and context of their brilliance.",
+          "createdAt": "18 December 2022",
           "score": 4,
-          "username": "ramsesmiron",
+          "username": "pele_fan",
           "currentUser": false,
           "replies": []
         },
         {
           "id": 4,
-          "content": "@ramsesmiron, I couldn't agree more with this. Everything moves so fast and it always seems like everyone knows the newest library/framework. But the fundamentals are what stay constant.",
-          "createdAt": "30 December 2021",
+          "content": "@pele_fan, Absolutely, fundamentals matter in football too! It's easy to get caught up in the excitement of the current stars, but learning the history helps you appreciate their skills even more.",
+          "createdAt": "30 December 2022",
           "score": 2,
-          "username": "juliusomo",
+          "username": "messi_fan",
           "currentUser": true,
           "replies": []
         }
